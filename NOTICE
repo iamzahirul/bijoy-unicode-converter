@@ -1,0 +1,6 @@
+Original project: bangla-converter
+Copyright (c) 2020 Woliul Hasan — https://github.com/woliul/bangla-converter
+Licensed under the Apache License 2.0.
+
+This product includes character maps and reordering logic derived from that project,
+with modifications to the surrounding application by Rasel (@iamzahirul).
